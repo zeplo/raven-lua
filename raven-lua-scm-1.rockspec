@@ -1,7 +1,7 @@
 package = "raven-lua"
 version = "scm-1"
 source = {
-   url = "https://github.com/cloudflare/raven-lua.git"
+   url = "https://github.com/cloudflare/raven-lua"
 }
 description = {
    detailed = [[
